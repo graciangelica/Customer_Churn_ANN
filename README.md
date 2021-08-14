@@ -18,7 +18,7 @@ From the graphs above we can conclude that:
 - Majority of customers that churned are those with credit cards.
 - The inactive members have a greater churn and the overall proportion of inactive members is also very high.
 
-In this project, we use Artificial Neural Networks(ANN) model and after training and evaluating the model, we got 86.9% accuracy score. 
+In this project, we use Artificial Neural Networks(ANN) and after training and evaluating the model, we got 86.9% accuracy score. 
 
 The following graph shows the training and validation loss:
 
