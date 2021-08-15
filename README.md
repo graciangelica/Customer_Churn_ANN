@@ -4,7 +4,7 @@ The goal of this project is to build a predictive model that will classify if a 
 
 ## Description
 
-A bank has observed their customer for certain periods of time and has gathered some data and wants to build a predictive model that can predict any new customer that will leave the bank. And from the information, they can be prepared to keep the maximum customers by doing some special offer to the customer so they will stay in the bank.
+A bank has observed their customer for certain periods of time, gathered some data and wants to build a predictive model that can predict any new customer that will leave the bank. And from the information, they can be prepared to keep the maximum customers by doing some special offer to the customer so they will stay in the bank.
 
 ## Output of the project
 
@@ -18,7 +18,7 @@ From the graphs above we can conclude that:
 - Majority of customers that churned are those with credit cards.
 - The inactive members have a greater churn and the overall proportion of inactive members is also very high.
 
-In this project, we use Artificial Neural Networks(ANN) and after training and evaluating the model, we got 86.9% accuracy score. 
+In this project, I use Artificial Neural Networks(ANN) and after training and evaluating the model, it got 86.9% accuracy score. 
 
 The following graph shows the training and validation loss:
 
