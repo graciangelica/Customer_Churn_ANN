@@ -23,7 +23,7 @@ From the graphs above we can conclude that:
 - Churned customers had an average balance between 100.000 to 150.000
 - Salary doesn't affect the churning
 
-In this project, I use Artificial Neural Networks(ANN) and after training and evaluating the model, it got 86.9% accuracy score. 
+In this project, I use Artificial Neural Networks(ANN) and after training and evaluating the model, it got 86.5% accuracy score. 
 
 The following graph shows the training and validation loss:
 
